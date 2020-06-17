@@ -1,0 +1,25 @@
+img {
+    border: 10px solid #E23832;
+    padding:10px;
+}
+
+p {
+    font-size:20px;
+    line-height: 2rem;
+    font-family: sans-serif;
+    letter-spacing: .05rem;
+    color:#333;
+}
+
+h1 {
+    align-self:center;
+    font-family: sans-serif;
+    color:#555;
+}
+
+.container {
+    display: flex;
+    flex-flow: column wrap;
+    width:50%;
+    margin: 0 auto;
+  }

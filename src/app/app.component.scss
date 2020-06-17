@@ -1,0 +1,63 @@
+a {
+    text-decoration: none;
+    font-size:40px;
+    font-family:sans-serif;
+}
+
+h1 {
+    list-style-type: none;
+    color:#444;
+    text-decoration: none;
+    font-size:40px;
+    font-family:sans-serif;
+    padding-top:50px;
+}
+
+h1 :visited {
+    color:#444;
+}
+
+ul {
+    list-style-type: none;
+    color:#444;
+}
+
+
+li :visited {
+    color:#444;
+}
+
+nav {
+    background-color:#DA3431;
+    display:grid;
+}
+
+.toplink {
+    float:left;
+    padding: 20px;
+    color:#fff;
+    font-family:sans-serif;
+    font-size:20px;
+    margin-left:20px;
+    letter-spacing: .05rem;
+    padding-top:70px;
+
+}
+
+.js {
+    width:8%;
+    float:left;
+}
+
+.container {
+    display: flex;
+    flex-flow: column wrap;
+    width:50%;
+    margin: 0 auto;
+
+  }
+
+a {
+    margin-top:30px;
+  }
+
